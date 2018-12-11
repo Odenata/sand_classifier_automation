@@ -1,1 +1,0 @@
-# sand_classifier_automation
